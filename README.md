@@ -1,8 +1,8 @@
 # Novem CLI
 
 This is the public distribution repository for the Novem terminal application
-and command-line interface. Release binaries, checksums, signatures, and
-package-manager metadata are published here.
+and command-line interface. Release binaries and checksums are published here.
+Signing and package-manager distribution are planned.
 
 ## Downloads
 
